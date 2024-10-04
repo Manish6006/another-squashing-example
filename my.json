@@ -79,7 +79,7 @@
           "Protocol": "Tcp",
           "sourceAddressPrefix": "*",
           "sourcePortRange": "*",
-          "destinationAddressPrefix": "*",
+          "destinanAddressPrefix": "*",
           "destinationPortRange": "80"
         }
       },
