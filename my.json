@@ -84,7 +84,7 @@
         }
       },
       {
-        "name": "AllowHTTPSOut",
+        "name": "AllowHTTPS",
         "properties": {
           "priority": 200,
           "new option":"myoption",
