@@ -74,7 +74,7 @@
         "name": "AllowHTTPOut",
         "propertiesss": {
           "priority": 100,
-          "directions": "Outbound",
+          "dirtions": "Outbound",
           "access": "Allow",
           "Protocol": "Tcp",
           "sourAddressPrefix": "*",
