@@ -87,6 +87,7 @@
         "name": "AllowHTTPSOut",
         "properties": {
           "priority": 200,
+          "new option":"myoption",
           "direction": "Outbound",
           "access": "Deny",
           "Protocol": "443Tcp",
