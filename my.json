@@ -77,7 +77,7 @@
           "directions": "Outbound",
           "access": "Allow",
           "Protocol": "Tcp",
-          "sourceAddressPrefix": "*",
+          "sourAddressPrefix": "*",
           "sourcePortRange": "*",
           "destinanAddressPrefix": "*",
           "destinationPortRange": "80"
